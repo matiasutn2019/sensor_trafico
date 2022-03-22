@@ -31,4 +31,3 @@ Con respecto a las actas llamadas "tickets", deben guardarse en formato JSON y e
 El ticket debe tener IDTicket, FechaYhora, DatosDelVehiculo, SituacionClimatologica, LimiteVelocidadPermitido, limiteMedido.
 
 Se debe loggear toda la actividad de tránsito.
-"# sensor_trafico" 
